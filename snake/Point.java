@@ -1,6 +1,7 @@
 package snake;
 
 public class Point {
+	 
 	private int x,y;
 	
 	public Point(){
@@ -29,5 +30,4 @@ public class Point {
 	public void setY(int y) {
 		this.y = y;
 	}
-	
 }
